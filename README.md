@@ -59,7 +59,8 @@ The project includes an interactive Power BI dashboard to visualize asteroid tra
 - **Real-Time Insights**: Incorporates daily data from NASA's API.
 
 ### **Preview**:
-![Power BI Dashboard Screenshot](link-to-dashboard-image)
+
+![dashboard](https://github.com/user-attachments/assets/ab0a64b6-98d1-4fd9-be28-aa542592c424)
 
 ### **How to Use**:
 1. Download the `.pbix` file from the `dashboard/` folder in this repository.
