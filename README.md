@@ -62,22 +62,3 @@ The project includes an interactive Power BI dashboard to visualize asteroid tra
 
 ![dashboard](https://github.com/user-attachments/assets/ab0a64b6-98d1-4fd9-be28-aa542592c424)
 
-### **How to Use**:
-1. Download the `.pbix` file from the `dashboard/` folder in this repository.
-2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Set up credentials for Athena to load live data.
-4. Explore insights and visualizations.
-
----
-
-## 📂 **Folder Structure**
-
-```plaintext
-Asteroid-Trajectory-Analysis/
-├── airflow_dags/         # Airflow DAGs for scheduling tasks
-├── data/                 # Sample data or test files
-├── scripts/              # PySpark and Kafka scripts
-├── dashboard/            # Power BI .pbix file
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-└── .gitignore            # Ignore unnecessary files
