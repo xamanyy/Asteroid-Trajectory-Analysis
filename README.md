@@ -42,7 +42,9 @@ Here’s how the system is designed:
 ---
 
 ### **Architecture Diagram**
-![Architecture Diagram](link-to-diagram-or-add-later)
+
+![diagram](https://github.com/user-attachments/assets/9811b86e-63c9-43ec-85e9-0f705d789145)
+
 
 ---
 
