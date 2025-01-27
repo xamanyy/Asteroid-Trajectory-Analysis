@@ -45,6 +45,16 @@ Here’s how the system is designed:
 
 ![diagram](https://github.com/user-attachments/assets/9811b86e-63c9-43ec-85e9-0f705d789145)
 
+## 🔧 Technologies Used
+
+- **Languages**: Python, SQL  
+- **ETL Tools**: Apache Airflow, PySpark  
+- **Data Storage**: AWS S3  
+- **Data Querying**: AWS Athena  
+- **Streaming**: Apache Kafka  
+- **Automation**: AWS Lambda  
+- **Visualization**: Power BI  
+- **API**: NASA NEO API  
 
 ---
 
