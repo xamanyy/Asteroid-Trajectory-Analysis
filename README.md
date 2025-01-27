@@ -72,3 +72,11 @@ The project includes an interactive Power BI dashboard to visualize asteroid tra
 
 ![dashboard](https://github.com/user-attachments/assets/ab0a64b6-98d1-4fd9-be28-aa542592c424)
 
+## 🚀 Future Enhancements
+
+1. **Predictive Analytics**:
+   - Implement machine learning models to predict asteroid trajectories and potential risks.
+
+2. **Additional APIs**:
+   - Integrate with other celestial monitoring APIs for enriched datasets.
+
